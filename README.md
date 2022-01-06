@@ -1,0 +1,2 @@
+# morty-project
+Learning django
