@@ -1,2 +1,2 @@
-# morty-project
+# mydjango-project
 Learning django
